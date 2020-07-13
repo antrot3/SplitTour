@@ -1,0 +1,10 @@
+C:\Users\arota\source\repos\KoalaTest2\DAL3\bin\Debug\DAL3.dll.config
+C:\Users\arota\source\repos\KoalaTest2\DAL3\bin\Debug\DAL3.dll
+C:\Users\arota\source\repos\KoalaTest2\DAL3\bin\Debug\DAL3.pdb
+C:\Users\arota\source\repos\KoalaTest2\DAL3\bin\Debug\EntityFramework.dll
+C:\Users\arota\source\repos\KoalaTest2\DAL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arota\source\repos\KoalaTest2\DAL3\bin\Debug\EntityFramework.xml
+C:\Users\arota\source\repos\KoalaTest2\DAL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arota\source\repos\KoalaTest2\DAL3\obj\Debug\DAL3.csproj.CopyComplete
+C:\Users\arota\source\repos\KoalaTest2\DAL3\obj\Debug\DAL3.dll
+C:\Users\arota\source\repos\KoalaTest2\DAL3\obj\Debug\DAL3.pdb
